@@ -1,3 +1,3 @@
 # Belajar-Kolaborasi  
-*Kolaborasi seru*
+*Kolaborasi seru*  
 Ayo belajar bersama di Dicoding
